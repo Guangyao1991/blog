@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on Guangyao Zhao</title>
+    <link>https://example.com/categories/math/</link>
+    <description>Recent content in Math on Guangyao Zhao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 May 2022 21:09:12 -0500</lastBuildDate><atom:link href="https://example.com/categories/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>常用latex符号输入</title>
+      <link>https://example.com/posts/2022-02-15_latex_%E5%B8%B8%E7%94%A8latex%E7%AC%A6%E5%8F%B7%E8%BE%93%E5%85%A5/%E5%B8%B8%E7%94%A8latex%E7%AC%A6%E5%8F%B7%E8%BE%93%E5%85%A5/</link>
+      <pubDate>Fri, 27 May 2022 21:09:12 -0500</pubDate>
+      
+      <guid>https://example.com/posts/2022-02-15_latex_%E5%B8%B8%E7%94%A8latex%E7%AC%A6%E5%8F%B7%E8%BE%93%E5%85%A5/%E5%B8%B8%E7%94%A8latex%E7%AC%A6%E5%8F%B7%E8%BE%93%E5%85%A5/</guid>
+      <description>希腊字母 希腊字母 读音 小写 大写 读音 小写 大写 阿尔法 \alpha(\(\alpha\)) \Alpha(\(\Alpha\)) 纽 \nu(\(\nu\)) \Nu(\(\Nu\)) 贝塔 \beta(\(\beta\)) \Beta(\(\Beta\)) 柯西 \xi(\(\xi\)) \Xi(\(\Xi\)) 伽马 \gamma(\(\gamma\)) \Gamma(\(\Gamma\)) 奥密克戎 \omicro(\(\omicron\)) \Omicron(\(\Omicron\)) 德尔塔 \delta(\(\delta\)) \Delta(\(\Delta\)) 派 \pi(\(\pi\)) \Pi(\(\Pi\)) 艾普西隆 \epsilon(\(\epsilon\)) \Epsilon(\(\Epsilon\)) 柔 \rho(\(\rho\)) \Rho(\(\Rho\)) 截塔 \zeta(\(\zeta\)) \Zeta(\(\zeta\)) 西格玛 \sigma(\(\sigma\)) \Sigma(\(\Sigma\)) 艾塔 \eta(\(\eta\)) \Eta(\(\Eta\)) 淘 \tau(\(\tau\)) \Tau(\(\Tau\)) 西塔 \theta(\(\theta\)) \Theta(\(\Theta\)) 宇普西隆 \upsilon(\(\upsilon\)) \Upsilon(\(\Upsilon\)) 约塔 \iota(\(\iota\)) \Iota(\(\Iota\)) 斐 \phi(\(\phi\)) \Phi(\(\Phi\)) 卡帕 \kappa(\(\kappa\)) \Kappa(\(\Kappa\)) 西 chi(\(\chi\)) \Chi(\(\Chi\)) 拉姆达 \lambda(\(\lambda\)) \Lambda(\(\Lambda\)) 普西 \psi(\(\psi\)) \Psi(\(\Psi\)) 米尤 \mu(\(\mu\)) \Mu(\(\Mu\)) 奥米伽 \omega(\(\omega\)) \Omega(\(\Omega\)) 希腊字母的一些变化 变量 \varGamma(\(\varGamma\)) \varlambda(\(\varLambda\)) \varSigma(\(\varSigma\)) \varPsi(\(\varPsi\)) \varDelta(\(\varDelta\)) \varXi(\(\varXi\)) \varUpsilon(\(\varUpsilon\)) \varOmega(\(\varOmega\)) \varTheta(\(\varTheta\)) \varPi(\(\varPi\)) \varPhi(\(\varPhi\)) 直立 在 latex 中需要添加upgreek宏包。</description>
+    </item>
+    
+    <item>
+      <title>向量概念的几何意义</title>
+      <link>https://example.com/posts/2022-02-07_la_%E5%90%91%E9%87%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89/%E5%90%91%E9%87%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89/</link>
+      <pubDate>Tue, 15 Feb 2022 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/posts/2022-02-07_la_%E5%90%91%E9%87%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89/%E5%90%91%E9%87%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89/</guid>
+      <description>自由向量的概念 向量是一个既有大小又有方向的量，这个量本身就是个几何的概念。 在物理学中把向量叫做矢量。矢就是箭，向量如同一根箭一样有头部和尾部，箭在空间自由的飞行中箭杆的长度不会变，这一点和向量相同；同时箭在无重力作用的理想情况下方向不会改变。也就是说长度和方向不变的理想之箭就是一个向量。所以向量的”飞行”称之为平移，这种允许在一条直线上平移的向量称为自由向量。 物理界将 vector 称之为矢量，数学界称之为向量。 向量的几何表示为\(\boldsymbol{AB}\)；代数表示为\(\boldsymbol{a}\)；手写时因为表示困难，所以写为\(\boldsymbol{a}\) 虽然向量独立于任何坐标系之外，但是为了与解析技术联系起来实现对向量的计算，数学上还是必须将向量放在某一个坐标系下研究。如果把空间中所有的向量的尾部都拉到坐标原点，这样\(n\)维空间就可以和\(n\)维向量空间建立一一对应的关系。 一旦确定好坐标系，一个向量就是与一个点对应，而点是所谓坐标的有序数组表示的，因此就可以把向量用有序数组表示，有了有序数组就可以运算了。使用有序数组表述的向量是以原点为起点的向量末端的坐标值表示，并把坐标值用圆括号括起来，如\(\boldsymbol{a}=(x,y,z)\)。在此处的有序数组\((x,y,z)\)就是向量。 一个向量可以分解为三个单位坐标向量的线性表示，比如向量\((1,1,1)\)分解如下：\((1,1,1)=(1,0,0)+(0,1,0)+(0,0,1)=\boldsymbol{i}+\boldsymbol{j}+\boldsymbol{k}\) 任意一个向量都可以表示为\(\boldsymbol{a}=(x,y,z)=x\boldsymbol{i}+y\boldsymbol{j}+z\boldsymbol{k}\) 向量的运算有加法、减法和乘法。乘法又分为点积和叉积。除法少有提及，后面会解释原因。 向量被看做线性空间或向量空间中的一个元素，但是与点不同。向量表示的是两点之间的位移而不是具体的空间的物理位置，是独立于坐标系的，这就是为什么在描述向量的运算法则的时候不需要画出坐标系，但一个点离开坐标系就无法表示。 向量实际上使用一个点对表示的，比如\(\boldsymbol{AB}\)表示起点为\(A\)终点为\(B\)，之所以把一个点与一个向量相对应，是因为默认所有的向量都是从原点出发的。 向量内积的几何和物理意义 向量内积的几何解释 向量的内积(dot product)也称之为数量积、标积、点积。内积的结果是个标量，定义如下： \[ \begin{aligned} \boldsymbol{a}\cdot\boldsymbol{b}&amp;amp;=ab\cos \theta\\ \boldsymbol{a}\cdot\boldsymbol{b}&amp;amp;=a_xb_x+a_yb_y+a_zb_z \end{aligned} \]
+根据内积的定义可对向量求长度： \[ a = \sqrt{\boldsymbol{a}\cdot\boldsymbol{a}}=\sqrt{a_xa_x+a_ya_y+a_za_z}=\sqrt{a_x^2+a_y^2+a_z^2} \]
+那么内积的两个定义有几何关系吗？答案是有的。假设\(a_y\)和\(a_z\)均为\(0\)，那么：\(\boldsymbol{a}\cdot\boldsymbol{b}=ab_x\)，其中\(ab_x\)的含义为\(\boldsymbol{a}\)的长度乘以\(\boldsymbol{b}\)在\(\boldsymbol{a}\)方向上的分量，即投影。投影表示为\(b_x=b\cos \theta\)。因此\(\boldsymbol{a}\cdot\boldsymbol{b}=ab\cos \theta\)得以证明。
+向量内积的几何解释就是一个向量在另一个向量上的投影的积，也就是同方向的积。
+如果想要将一个向量变换到新的坐标系，只需要对新坐标系轴向量进行内积运算即可（这个理论极其重要）。
+内积还有一种比较直观的解释：
+当两个向量的内积\(&amp;gt;0\)时，同方向 当两个向量的内积\(=0\)时，互相垂直 当两个向量的内积\(&amp;lt;0\)时，反方向 向量内积的物理解释 生活中的内积：比如食物的价格分别为蔬菜\(2\)元；大米\(1.5\)元；牛肉\(10\)元，那么价格向量为\(p=(2,1.5,10)\)。重量分别为蔬菜\(3.5\)斤；大米\(5\)斤；牛肉\(2\)斤，那么重量向量为\(d=(3.5,5,2)\)。饮食消费的内积为： \[ \boldsymbol{p}\cdot\boldsymbol{d}=(2,1.5,10)\cdot(3.5,5,2)=34.5 \]
+向量求解余弦插角公式：假设\(\boldsymbol{A}=(\cos \alpha, \sin\alpha)\)，\(\boldsymbol{B}=(\cos \beta, \sin\beta)\)，则： \[ \begin{aligned} \boldsymbol{OA}\cdot\boldsymbol{OB}=|\boldsymbol{OA}|\cdot|\boldsymbol{OB}|\cos(\beta-\alpha)=\cos\alpha\cos\beta+\sin\alpha\sin\beta\\ \cos(\beta-\alpha) = \cos\alpha\cos\beta+\sin\alpha\sin\beta \quad (|\boldsymbol{OA}|=\boldsymbol{OB}=1) \end{aligned} \]
+向量叉积的几何和物理意义 叉积的定义及其几何解释 叉积(cross product)也称之为外积，因为叉积或产生新的一维向量。两个向量确定了一个二维的平面，叉积会产生垂直于这个平面的向量。 叉积的定义也有两个： \[ \begin{aligned} \boldsymbol{a}\times \boldsymbol{b}&amp;amp;=(ab\sin\theta)\boldsymbol{n_0}\\ \boldsymbol{a}\times \boldsymbol{b}&amp;amp;=(a_yb_z-a_zb_y,a_zb_x-a_xb_z,a_xb_y-z_yb_x) \end{aligned} \]</description>
+    </item>
+    
+  </channel>
+</rss>

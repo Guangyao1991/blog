@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>latex on Guangyao Zhao</title>
+    <link>https://example.com/tags/latex/</link>
+    <description>Recent content in latex on Guangyao Zhao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 May 2022 21:09:12 -0500</lastBuildDate><atom:link href="https://example.com/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>常用latex符号输入</title>
+      <link>https://example.com/posts/2022-02-15_latex_%E5%B8%B8%E7%94%A8latex%E7%AC%A6%E5%8F%B7%E8%BE%93%E5%85%A5/%E5%B8%B8%E7%94%A8latex%E7%AC%A6%E5%8F%B7%E8%BE%93%E5%85%A5/</link>
+      <pubDate>Fri, 27 May 2022 21:09:12 -0500</pubDate>
+      
+      <guid>https://example.com/posts/2022-02-15_latex_%E5%B8%B8%E7%94%A8latex%E7%AC%A6%E5%8F%B7%E8%BE%93%E5%85%A5/%E5%B8%B8%E7%94%A8latex%E7%AC%A6%E5%8F%B7%E8%BE%93%E5%85%A5/</guid>
+      <description>希腊字母 希腊字母 读音 小写 大写 读音 小写 大写 阿尔法 \alpha(\(\alpha\)) \Alpha(\(\Alpha\)) 纽 \nu(\(\nu\)) \Nu(\(\Nu\)) 贝塔 \beta(\(\beta\)) \Beta(\(\Beta\)) 柯西 \xi(\(\xi\)) \Xi(\(\Xi\)) 伽马 \gamma(\(\gamma\)) \Gamma(\(\Gamma\)) 奥密克戎 \omicro(\(\omicron\)) \Omicron(\(\Omicron\)) 德尔塔 \delta(\(\delta\)) \Delta(\(\Delta\)) 派 \pi(\(\pi\)) \Pi(\(\Pi\)) 艾普西隆 \epsilon(\(\epsilon\)) \Epsilon(\(\Epsilon\)) 柔 \rho(\(\rho\)) \Rho(\(\Rho\)) 截塔 \zeta(\(\zeta\)) \Zeta(\(\zeta\)) 西格玛 \sigma(\(\sigma\)) \Sigma(\(\Sigma\)) 艾塔 \eta(\(\eta\)) \Eta(\(\Eta\)) 淘 \tau(\(\tau\)) \Tau(\(\Tau\)) 西塔 \theta(\(\theta\)) \Theta(\(\Theta\)) 宇普西隆 \upsilon(\(\upsilon\)) \Upsilon(\(\Upsilon\)) 约塔 \iota(\(\iota\)) \Iota(\(\Iota\)) 斐 \phi(\(\phi\)) \Phi(\(\Phi\)) 卡帕 \kappa(\(\kappa\)) \Kappa(\(\Kappa\)) 西 chi(\(\chi\)) \Chi(\(\Chi\)) 拉姆达 \lambda(\(\lambda\)) \Lambda(\(\Lambda\)) 普西 \psi(\(\psi\)) \Psi(\(\Psi\)) 米尤 \mu(\(\mu\)) \Mu(\(\Mu\)) 奥米伽 \omega(\(\omega\)) \Omega(\(\Omega\)) 希腊字母的一些变化 变量 \varGamma(\(\varGamma\)) \varlambda(\(\varLambda\)) \varSigma(\(\varSigma\)) \varPsi(\(\varPsi\)) \varDelta(\(\varDelta\)) \varXi(\(\varXi\)) \varUpsilon(\(\varUpsilon\)) \varOmega(\(\varOmega\)) \varTheta(\(\varTheta\)) \varPi(\(\varPi\)) \varPhi(\(\varPhi\)) 直立 在 latex 中需要添加upgreek宏包。</description>
+    </item>
+    
+  </channel>
+</rss>

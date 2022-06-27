@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Guangyao Zhao</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Guangyao Zhao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 May 2022 21:09:12 -0500</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>latex</title>
+      <link>https://example.com/tags/latex/</link>
+      <pubDate>Fri, 27 May 2022 21:09:12 -0500</pubDate>
+      
+      <guid>https://example.com/tags/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://example.com/tags/math/</link>
+      <pubDate>Fri, 27 May 2022 21:09:12 -0500</pubDate>
+      
+      <guid>https://example.com/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://example.com/tags/machine-learning/</link>
+      <pubDate>Fri, 25 Feb 2022 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>method</title>
+      <link>https://example.com/tags/method/</link>
+      <pubDate>Fri, 25 Feb 2022 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/tags/method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linear algebra</title>
+      <link>https://example.com/tags/linear-algebra/</link>
+      <pubDate>Tue, 15 Feb 2022 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/tags/linear-algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eassy</title>
+      <link>https://example.com/tags/eassy/</link>
+      <pubDate>Sat, 01 Jan 2022 21:09:12 -0500</pubDate>
+      
+      <guid>https://example.com/tags/eassy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poem</title>
+      <link>https://example.com/tags/poem/</link>
+      <pubDate>Sat, 01 Jan 2022 21:09:12 -0500</pubDate>
+      
+      <guid>https://example.com/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://example.com/tags/css/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://example.com/tags/html/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://example.com/tags/markdown/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://example.com/tags/themes/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://example.com/tags/emoji/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://example.com/tags/text/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/text/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
